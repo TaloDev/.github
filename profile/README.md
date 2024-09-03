@@ -1,6 +1,6 @@
 # Talo Game Services
 
-Talo is the easiest way to integrate leaderboards, stats, event tracking and more into your game. Build games faster and make better decisions for free with Talo!
+Talo is the easiest way to integrate leaderboards, stats, event tracking and more into your game. Build games faster and make better data-driven decisions for free with Talo!
 
 ## Features
 - ⚡️ [Event tracking](https://trytalo.com/events)
@@ -15,6 +15,10 @@ Talo is the easiest way to integrate leaderboards, stats, event tracking and mor
 - 🔧 [Steamworks integration](https://trytalo.com/steamworks-integration)
 - 💬 [Game feedback](https://trytalo.com/feedback)
 
+## Discord
+
+For help, support, discussions and to show off your game, [join our Discord](https://discord.gg/2RWwxXVY3v).
+
 ## Docs
 
 Our docs are [available here](https://docs.trytalo.com).
@@ -22,7 +26,3 @@ Our docs are [available here](https://docs.trytalo.com).
 ## Self-hosting
 
 See the [self-hosting docs](https://docs.trytalo.com/docs/selfhosting/overview) and the [self-hosting example repo](https://github.com/TaloDev/hosting).
-
-## Discord
-
-For help and support, [join our Discord](https://discord.gg/2RWwxXVY3v).
