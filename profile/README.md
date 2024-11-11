@@ -2,27 +2,36 @@
 
 Talo is the easiest way to integrate leaderboards, stats, event tracking and more into your game. Build games faster and make better data-driven decisions for free with Talo!
 
-## Features
-- ⚡️ [Event tracking](https://trytalo.com/events)
-- 👥 [Player management](https://trytalo.com/players) (including cross-session data, groups and identity management)
-- 🎮 [Unity package](https://trytalo.com/unity)
-- 🎮 [Godot plugin](https://trytalo.com/godot)
-- 🗃️ Data exports
-- 🕹️ [Leaderboards](https://trytalo.com/leaderboards)
-- 💾 [Game saves](https://trytalo.com/saves)
-- 📊 [Game stats](https://trytalo.com/stats) (global and per-player)
-- ⚙️ [Live config](https://trytalo.com/live-config) (update your game config from the web, no releases required)
-- 🔧 [Steamworks integration](https://trytalo.com/steamworks-integration)
-- 💬 [Game feedback](https://trytalo.com/feedback)
+From essentials like player management, stats and leaderboards to advanced APIs for game saves, event tracking and player authentication.
 
-## Discord
+Talo is available to use via our [Godot plugin](https://github.com/TaloDev/godot), [Unity package](https://github.com/TaloDev/unity) or [REST API](https://docs.trytalo.com/docs/http/authentication).
 
-For help, support, discussions and to show off your game, [join our Discord](https://discord.gg/2RWwxXVY3v).
+## Talo's key features
 
-## Docs
+- 👥 [Player management](https://trytalo.com/players): Persist player data across sessions, create segments and handle authentication.
+- ⚡️ [Event tracking](https://trytalo.com/events): Track in-game player actions individually and globally.
+- 🎮 [Godot plugin](https://trytalo.com/godot): Easily integrate Talo into your Godot game.
+- 🎮 [Unity package](https://trytalo.com/unity): Easily integrate Talo into your Unity game.
+- 🗃️ **Data Exports**: Create CSVs of your Talo data like players, events and feedback.
+- 🕹️ [Leaderboards](https://trytalo.com/leaderboards): Highly customisable leaderboards that can sync with Steamworks.
+- 💾 [Game saves](https://trytalo.com/saves): A simple and flexible way to load/save game state; also works offline.
+- 📊 [Game stats](https://trytalo.com/stats): Track global or per-player stats across your game; also syncs with Steamworks.
+- ⚙️ [Live config](https://trytalo.com/live-config): Update game settings from the web with zero downtime.
+- 🔧 [Steamworks integration](https://trytalo.com/steamworks-integration): Hook into Steamworks for authentication and ownership checks.
+- 💬 [Game feedback](https://trytalo.com/feedback): Collect and manage feedback from your players.
 
-Our docs are [available here](https://docs.trytalo.com).
+## Join our community
 
-## Self-hosting
+Have questions, want to share feedback or show off your game? [Join us on Discord](https://discord.gg/2RWwxXVY3v) to connect with other developers and get help from the Talo team.
 
-See the [self-hosting docs](https://docs.trytalo.com/docs/selfhosting/overview) and the [self-hosting example repo](https://github.com/TaloDev/hosting).
+## Documentation
+
+Check out the [full Talo docs](https://docs.trytalo.com) for setup instructions, detailed API docs/examples and configuration options.
+
+## Self-hosting your own Talo instance
+
+Talo is designed to be easily self-hosted. Take a look at our [self-hosting guide](https://docs.trytalo.com/docs/selfhosting/overview) and the [GitHub repo](https://github.com/TaloDev/hosting) for examples on how to get started.
+
+---
+
+Find all the details about Talo on our [website](https://trytalo.com)!
