@@ -22,7 +22,7 @@ Talo is available to use via our [Godot plugin](https://github.com/TaloDev/godot
 
 ## Join our community
 
-Have questions, want to share feedback or show off your game? [Join us on Discord](https://discord.gg/2RWwxXVY3v) to connect with other developers and get help from the Talo team.
+Have questions, want to share feedback or show off your game? [Join us on Discord](https://trytalo.com/discord) to connect with other developers and get help from the Talo team.
 
 ## Documentation
 
