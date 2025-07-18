@@ -25,6 +25,6 @@ You can learn more about these features on our website: [trytalo.com](https://tr
 - [Documentation](https://docs.trytalo.com)
 - [Self-hosting examples](https://github.com/talodev/hosting)
 
-## Join our community
+## Join the community
 
 Have questions, want to share feedback or show off your game? [Join us on Discord](https://trytalo.com/discord) to connect with other developers and get help from the Talo team.
