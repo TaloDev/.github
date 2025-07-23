@@ -1,6 +1,6 @@
 # Talo: open-source, self-hostable game backend
 
-Talo is the easiest way to add leaderboards, player authentication, socket-based multiplayer and more to your game.
+Talo is the easiest way to add leaderboards, player authentication, peer-to-player multiplayer and more to your game.
 
 Using the Talo Dashboard, you can visualise and analyse your game data to help make better data-driven decisions.
 
@@ -9,7 +9,7 @@ Talo is available to use via our [Godot plugin](https://github.com/TaloDev/godot
 ## Features
 
 - 👥 Player management (persistent data, groups and authentication)
-- 💬 Socket-based multiplayer with persistent data
+- 💬 Peer-to-peer multiplayer with persistent data
 - 🕹️ Leaderboards
 - 📊 Game analytics (global stats, player stats and event tracking)
 - ⚙️ Load game config from the cloud
