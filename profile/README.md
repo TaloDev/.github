@@ -1,6 +1,6 @@
 # Talo: open-source, self-hostable game backend
 
-Talo is the easiest way to add leaderboards, player authentication, peer-to-player multiplayer and more to your game.
+Talo is the easiest way to add leaderboards, player authentication, peer-to-peer multiplayer and more to your game.
 
 Using the Talo Dashboard, you can visualise and analyse your game data to help make better data-driven decisions.
 
