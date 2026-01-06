@@ -16,6 +16,7 @@ Talo is available to use via our [Godot plugin](https://github.com/TaloDev/godot
 - 💾 Game saves (online and offline)
 - 🗣️ Game feedback from players
 - 🔔 Player presence (see if players are online and set custom statuses)
+- 🤝 Player relationships (for friends, followers and social systems)
 
 You can learn more about these features on our website: [trytalo.com](https://trytalo.com).
 
